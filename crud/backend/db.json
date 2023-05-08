@@ -14,6 +14,11 @@
       "id": 3,
       "name": "Samsung S23",
       "price": 10000
+    },
+    {
+      "name": "teste novo produto",
+      "price": "123321",
+      "id": 4
     }
   ]
 }
