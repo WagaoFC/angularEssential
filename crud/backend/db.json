@@ -14,21 +14,6 @@
       "id": 3,
       "name": "Samsung S23",
       "price": 10000
-    },
-    {
-      "name": "Geladeira",
-      "price": 5000,
-      "id": 4
-    },
-    {
-      "name": "Playstation 5",
-      "price": 5000,
-      "id": 5
-    },
-    {
-      "name": "produto de teste",
-      "price": 1234.98,
-      "id": 6
     }
   ]
 }
