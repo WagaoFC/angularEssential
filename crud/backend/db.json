@@ -16,9 +16,14 @@
       "price": 10000
     },
     {
-      "name": "teste novo produto",
-      "price": "123321",
+      "name": "TV",
+      "price": "5000",
       "id": 4
+    },
+    {
+      "name": "Playstation 5",
+      "price": "5500",
+      "id": 5
     }
   ]
 }
